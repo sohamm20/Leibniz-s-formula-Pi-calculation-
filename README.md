@@ -1,4 +1,4 @@
 # Pie-Calculator
-*Python Program For Calculation of Pi  
-*This Program usages Leibniz’s formula 
-*Change The Range to adjust Precision
+*Python program for Calculation of Pi  
+*This program usages Leibniz’s formula 
+*Change The range to adjust Precision
